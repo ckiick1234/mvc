@@ -1,0 +1,7 @@
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\exMVC.exe
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\appsettings.Development.json
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\appsettings.json
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\exMVC.dll
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\exMVC.deps.json
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\exMVC.runtimeconfig.json
+C:\Users\Chris\OneDrive\Documents\Projects\Azure\mvc\pub\exMVC.pdb
